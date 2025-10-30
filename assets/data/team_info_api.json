@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Sophia Martinez",
+      "role": "CEO",
+      "description": "Oversees company strategy and ensures our travel vision comes to life.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/user.svg"
+    },
+    {
+      "name": "Liam Chen",
+      "role": "Marketing Executive",
+      "description": "Drives brand growth and connects travelers with new adventures.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/trending-up.svg"
+    },
+    {
+      "name": "Emma Johnson",
+      "role": "Travel Consultant",
+      "description": "Helps clients plan trips tailored to their dreams and budgets.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/map.svg"
+    },
+    {
+      "name": "Noah Patel",
+      "role": "Finance Manager",
+      "description": "Manages budgets and keeps our journeys cost-effective and reliable.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/dollar-sign.svg"
+    },
+    {
+      "name": "Olivia Rossi",
+      "role": "Customer Support Lead",
+      "description": "Ensures travelers get quick and caring assistance at every step.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/help-circle.svg"
+    },
+    {
+      "name": "Ethan Brown",
+      "role": "Content Creator",
+      "description": "Creates inspiring travel stories and guides for our community.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/edit-2.svg"
+    },
+    {
+      "name": "Ava Smith",
+      "role": "Photographer",
+      "description": "Captures stunning visuals that bring destinations to life.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/camera.svg"
+    },
+    {
+      "name": "Mason Kim",
+      "role": "Operations Manager",
+      "description": "Coordinates logistics to keep trips smooth and stress-free.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/briefcase.svg"
+    },
+    {
+      "name": "Isabella Garcia",
+      "role": "Data Analyst",
+      "description": "Analyzes travel trends to guide better decisions for clients.",
+      "image": "https://cdn.jsdelivr.net/gh/feathericons/feather/icons/pie-chart.svg"
+    }
+  ]
+  
