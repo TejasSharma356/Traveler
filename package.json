@@ -1,0 +1,13 @@
+{
+  "name": "traveler",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Traveler - Static travel site for exploring destinations.",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site build complete'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
